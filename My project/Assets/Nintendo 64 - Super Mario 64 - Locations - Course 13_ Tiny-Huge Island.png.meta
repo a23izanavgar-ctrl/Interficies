@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: aecba6430e4d3e44eb1e93fd0cbd606c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21854f6e03b9794f869e6eb07acd0bb
+      internalID: 625484234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7471c9b3d7e7f4c8503eb3465f8d1f
+      internalID: -1648968657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda5846241fbf746885a95d20e2eed1
+      internalID: -1617062087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835668266cde6714a89194f3274c460e
+      internalID: 2026017774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6933c9b2f180a14a95d66e2d9750590
+      internalID: 657010556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 235
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc634560aef51c49a259d33b26088c8
+      internalID: 1552212145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99463caa625915439c7563048a25a07
+      internalID: 1329484304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c97d3db5b506419c11a4e91d718ba
+      internalID: 210073584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41c691c2d0e77429fe286f3b7f153a
+      internalID: 66253497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab48cda69ef8a34997a08ae95a5dffe
+      internalID: 704688539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530a2251ea3aec4e8a2f986665031be
+      internalID: -1064517836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccb0570f251e341a307820b5a181ff
+      internalID: -265998880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 153
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f565914a32901d45a281cf1112936e2
+      internalID: 1583502466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 153
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988c2346a422064082714626270e4d3
+      internalID: -947562190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db021997f1c1e4eb1826f7cc4c64ce
+      internalID: -2045061869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ba63714219e740aac8f4b4992fa39
+      internalID: -1476067037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c7ceadd5e2424cbf9248b5b52537a
+      internalID: -451619135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c8dc271b76c84585957a0f81d4d82
+      internalID: -1539107805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856dffa658372d4fa94fc4d7b6a046e
+      internalID: 1309040789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef7394226e940e4aba7624a44bc57d3
+      internalID: 1868581501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feebade40976de94daebaece4b40f6ef
+      internalID: 1945561286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d115ef0436c424c9f978fda7a1c28e
+      internalID: 609552247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd7061bfbb50540a13acb80c82bd7e
+      internalID: 212858467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a91c628c3794e43a2a827a10762fd4
+      internalID: -1010203752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eaa3482c8281d499ddf5cf86d89734
+      internalID: 289605828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a96f280b954849a49650bc0e7f477
+      internalID: -1282535469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f51fd363650d47842bc0af8d6d836
+      internalID: 568494783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c679085317211489f67106bee58fc9
+      internalID: -1130656170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 223
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865efac101184e34eb014a92528e01ae
+      internalID: -142291413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2bc1578bfd161af4d80d00028169e786
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_0: 625484234
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_1: -1648968657
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_10: -1064517836
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_11: -265998880
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_12: 1583502466
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_13: -947562190
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_14: -2045061869
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_15: -1476067037
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_16: -451619135
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_17: -1539107805
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_18: 1309040789
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_19: 1868581501
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_2: -1617062087
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_20: 1945561286
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_21: 609552247
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_22: 212858467
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_23: -1010203752
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_24: 289605828
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_25: -1282535469
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_26: 568494783
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_27: -1130656170
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_28: -142291413
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_3: 2026017774
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_4: 657010556
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_5: 1552212145
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_6: 1329484304
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_7: 210073584
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_8: 66253497
+      Nintendo 64 - Super Mario 64 - Locations - Course 13_ Tiny-Huge Island_9: 704688539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 3b09a91897ef4f44da1f7300a7f57f07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e2f019a9733784faca68ae083b380c
+      internalID: -137914167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915370714cb64ff42b7cff43a59981a3
+      internalID: -1054197015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9c2a17186eae4e91b262b4f34b074
+      internalID: -1166711488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf791a82049de409598af875d61ec3
+      internalID: -916256680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d401b22b6269ad4488e033432f3e3571
+      internalID: -1112164867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08290c902bf424db8a0e7fa1360751
+      internalID: 109835845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c330d1e58e5fb642ad0863481280f91
+      internalID: 2902751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5110aa635dd4445bf1cf35ea71dab9
+      internalID: -669803099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c66e9f23a837124296812ddbeff0a80
+      internalID: 1121358752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d64a5fce63ff4384d60422f62cd67
+      internalID: -60540780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58517e847faafea41a1cb8a619ad5e4c
+      internalID: 539550210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140c8ec1636810489d83ad91a81128f
+      internalID: 233799108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b831b1ba3a402740838c013e5f6a20a
+      internalID: -1390699410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd44e250c28b348822c35961c905eb
+      internalID: -2138860738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ae7b125367ee49a4e499452c7c951
+      internalID: 858008633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed404227c6d3cbd45a8184f1677a36f0
+      internalID: 1495308333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bb17beca59024fb2f01f5e271df88
+      internalID: -624785225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 323
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166bb89755e8264fb90970e51fbf910
+      internalID: 1327414888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 323
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb09cc38bd3d064386d3f0276ef4ed3
+      internalID: -1471930004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0211f54adbd79d40832e2d342298a43
+      internalID: -281907992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a88de12ba2f3034e8e15c9a3c33d766
+      internalID: -1336105787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ef3b112f1200469aa3bb18bea7f00
+      internalID: 1270096336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353922fc5f53ad49b0316fd751ba180
+      internalID: 1471771569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 305
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc2c1d975f5adb44b0a6b511c93c1b1
+      internalID: 1819348698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ce471662bec44b9a6e07b095aa58a
+      internalID: -1296594932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e736bf62098d634b86ce24db1138586
+      internalID: -733818230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f6419d385fc24fb52cd778040ae6b
+      internalID: 155345472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8b30441643604a87bf4f2eb79dd54
+      internalID: -1205468888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115b811a0c132849bfcfcd15674e9bd
+      internalID: 2070723698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61fe27c719c8645b1982b4f82362bb
+      internalID: -685118158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8acdaa42e7f1f489d53fab86f71bc6
+      internalID: 1127726817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61f2b8f319e14649b31cb2328b99284
+      internalID: -1242910694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee492ba3e475d864391e82b5b48d103b
+      internalID: 1057123108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0aa9d51c5b0114cb74bc103935d019
+      internalID: 836411047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e01eff18cf64e4448a2d4358981edd7
+      internalID: -1161288700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ae88700e9fb647bcd2edf47467ae5
+      internalID: -1003482672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62da298ca7d6c74a9927bb8c4c6724f
+      internalID: 537123332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b706dfa1cec4c4ab2633973c322ac6
+      internalID: 2003762678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd202c696945983449f985c712c31266
+      internalID: -848420020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f0755c7be1a94aadd1a893194d3fa
+      internalID: 1177498177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29e62505ff242498a4b796ac43a9f3
+      internalID: -1931825037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370c0d848f3f30241a1aaee79093cb4b
+      internalID: -1742308141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84c5fde329b8d4fa5b9f4687b9a6ef
+      internalID: 94670845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012a1ddcc14b6f4f888e90ea9dfa2e3
+      internalID: 1205383435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb3f80f3828f44196dadf522c7350c
+      internalID: 2052360391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 203
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f018300ed7b5ca41bdd95b77cdb9cce
+      internalID: 798629811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a418ccac877d974e827f89eca3484c7
+      internalID: -104103076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac28b766e6fde43872167b31df4518
+      internalID: -1189168917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce8df8e21b070458cc6e2f606dad7e
+      internalID: 162816600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4d6d7ad1cb2d49a5a75408680f6b6
+      internalID: -1164728446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d07d56fb8c4d42822b44c709ca84e
+      internalID: 1585570332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c87900eb676194d953496daf750e88
+      internalID: 1607506249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99054bb4a22008b4683888526970a949
+      internalID: 282913911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec7ab662c0f0d4abab57e8bc8e8ceb
+      internalID: -1320550518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120ec98c8d8b4f4188d6079ba6ad5a5
+      internalID: 426533316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b379132bb7dc4f9b05a7bca0a92ae
+      internalID: 2296707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945859841ca4f6a4a99ba99be7bfef29
+      internalID: 405554072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb95d46db1c2a54193024300b2d09bd
+      internalID: -840269616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584becfc5b1ec4b4eafc4f70153da928
+      internalID: -126972909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f36b3233f5544386065fe15bf825e
+      internalID: -995020927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9520455139b92844a33ce394ee3e9d0
+      internalID: 2101056541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b6b32cf1400644a16a5ef5e824aff
+      internalID: -1546133992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95e4c64ac8eff409ba948bc7977d2e
+      internalID: -597607569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58cb447cded5d418056ca76f7eac24
+      internalID: 1587971679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f859b5ef6815b46b206ea8768e52d0
+      internalID: 1860264552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_65
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc00397596783845abba4b12f4cc91e
+      internalID: -1434408468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 223
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af14be78c9f4b54ab6e1df9456a10a2
+      internalID: -1034529097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1eaea2ac0a4aa0d4b8bcedfa54abd8f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_0: -137914167
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_1: -1054197015
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_10: 539550210
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_11: 233799108
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_12: -1390699410
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_13: -2138860738
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_14: 858008633
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_15: 1495308333
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_16: -624785225
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_17: 1327414888
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_18: -1471930004
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_19: -281907992
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_2: -1166711488
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_20: -1336105787
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_21: 1270096336
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_22: 1471771569
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_23: 1819348698
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_24: -1296594932
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_25: -733818230
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_26: 155345472
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_27: -1205468888
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_28: 2070723698
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_29: -685118158
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_3: -916256680
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_30: 1127726817
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_31: -1242910694
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_32: 1057123108
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_33: 836411047
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_34: -1161288700
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_35: -1003482672
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_36: 537123332
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_37: 2003762678
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_38: -848420020
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_39: 1177498177
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_4: -1112164867
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_40: -1931825037
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_41: -1742308141
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_42: 94670845
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_43: 1205383435
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_44: 2052360391
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_45: 798629811
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_46: -104103076
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_47: -1189168917
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_48: 162816600
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_49: -1164728446
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_5: 109835845
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_50: 1585570332
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_51: 1607506249
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_52: 282913911
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_53: -1320550518
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_54: 426533316
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_55: 2296707
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_56: 405554072
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_57: -840269616
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_58: -126972909
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_59: -995020927
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_6: 2902751
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_60: 2101056541
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_61: -1546133992
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_62: -597607569
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_63: 1587971679
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_64: 1860264552
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_65: -1434408468
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_66: -1034529097
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_7: -669803099
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_8: 1121358752
+      Nintendo 64 - Super Mario 64 - Locations - Course 07_ Lethal Lava Land_9: -60540780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

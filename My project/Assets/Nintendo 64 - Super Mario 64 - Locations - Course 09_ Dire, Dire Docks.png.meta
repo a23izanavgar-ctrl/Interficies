@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 7dd0ac24ba9cb22489bd248a2870bbad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329c92f65b9a154d99df84fc760cceb
+      internalID: 487996948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 287
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19b75675e608941bafafb05f0762d1
+      internalID: -2013234347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 287
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1afcaf129582cb41b5bbed856ef670f
+      internalID: 1034078365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d56b4a42bf0542ac015f058200b26
+      internalID: -1000758563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 253
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cadecb1a585b44d9d14b0e82717868
+      internalID: 528359597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa886cfe73c8574294b480614bdb9fd
+      internalID: -92287147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 253
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5b34468b3fff4f9d74d2fb00c413b
+      internalID: 163439468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 253
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7da0e9a78aa3149bce2b2bd1550b69
+      internalID: -547430466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64ca5321a575a4ca99f56c0ac2cd54
+      internalID: -1053976832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f070d628fadde24993bae814bcfaeb9
+      internalID: -783830840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e610cd7edb8e7840aed1922128891f0
+      internalID: 1120398577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd7c10dafdd16439e36223e3e305a1
+      internalID: -32547997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 235
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2ed1964134fe48aa950d46b6510a5
+      internalID: 1265721284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d64a8adba0e048860658c77c1e14c
+      internalID: 1112994511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b01f5828f9ddd2438df2ca81aef6a6a
+      internalID: -1207629951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887ca93de3505d46b1009de6e442a11
+      internalID: -1335006406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7ec740417bd148ac56c287b3b1abf
+      internalID: 2046274380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652f45ea3e28d4428ddb85904023b4a
+      internalID: 1520219167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e54738a4524044abf1b0b41980996
+      internalID: 408115846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 185
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01f941002a059499811f8421e1fa1b
+      internalID: 874725099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8171a0046ad0e4b854a82f732d15a6
+      internalID: 13604744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2d842427107c499e8fd6bdf1610c4
+      internalID: 643288993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be48a1ea9aa2f468f5dd43b047da50
+      internalID: 1623428775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27397ac8222775e4c85a20aca6bad1c5
+      internalID: 389531934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b04f79f761154a846c41812564c23
+      internalID: -581730447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e194b6104083cf4ca4c9ebf29fb7eae
+      internalID: 1198468019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623cc4d7d7022547b0b160e72094836
+      internalID: 2032222707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42cfb2791a69d441aa23f2a030536d5
+      internalID: -1288495338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b6c601c31959147847ebcce0ffc7c6
+      internalID: -489373047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6fc260e969644abae7888f5b17746
+      internalID: -969629110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 85
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6453bad8cd22749bbd9bce4b8c8d42
+      internalID: 1655190039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c3dbe182830664cba0088ec4e5216d
+      internalID: 1487942978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51907a79f1ae3f548bd363255242839d
+      internalID: 572621331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 83
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e444e20028bfc43a3a8ecdafff34eb
+      internalID: 1585015050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855846fd1a3a3164b8a0e786a115c249
+      internalID: -559596372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9df72135d305943a4cedd2f291f94e
+      internalID: -1266930942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc92e6d0ed8a043b9050e9d1af56a1
+      internalID: 2140009595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ba8aa6b778a5429fb66f9087ae5d5
+      internalID: 1068004227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 223
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe90ce31b30d2247a70affdd76997a7
+      internalID: -231468536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 115ef50de00176a41a5a75d735dbad8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_0: 487996948
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_1: -2013234347
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_10: 1120398577
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_11: -32547997
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_12: 1265721284
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_13: 1112994511
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_14: -1207629951
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_15: -1335006406
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_16: 2046274380
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_17: 1520219167
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_18: 408115846
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_19: 874725099
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_2: 1034078365
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_20: 13604744
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_21: 643288993
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_22: 1623428775
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_23: 389531934
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_24: -581730447
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_25: 1198468019
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_26: 2032222707
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_27: -1288495338
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_28: -489373047
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_29: -969629110
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_3: -1000758563
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_30: 1655190039
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_31: 1487942978
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_32: 572621331
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_33: 1585015050
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_34: -559596372
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_35: -1266930942
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_36: 2140009595
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_37: 1068004227
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_38: -231468536
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_4: 528359597
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_5: -92287147
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_6: 163439468
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_7: -547430466
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_8: -1053976832
+      Nintendo 64 - Super Mario 64 - Locations - Course 09_ Dire, Dire Docks_9: -783830840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
